@@ -7,7 +7,7 @@
 📅 **DOB:** 10-May-1989  
 🔗 **LinkedIn:** [linkedin.com/in/nareshkadali](https://www.linkedin.com/in/nareshkadali/)  
 🐙 **GitHub:** [github.com/KadaliNaresh](https://github.com/KadaliNaresh/)  
-🌐  **GitHub CV:** [github.com/KadaliNaresh/CV/](https://github.com/KadaliNaresh/CV/)
+🌐  **GitHub CV:** [https://kadalinaresh.github.io/CV/](https://kadalinaresh.github.io/CV/)
 
 ---
 
